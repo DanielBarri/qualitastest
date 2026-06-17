@@ -1,0 +1,23 @@
+{
+  "type": "PLANAR",
+  "properties": {
+    "top": 0,
+    "left": 417,
+    "width": 499,
+    "height": 665,
+    "isRotated": false,
+    "originalWidth": 1182,
+    "originalHeight": 665
+  },
+  "imagePath": "image-targets/Qualibot_luminance.jpg",
+  "metadata": null,
+  "name": "Qualibot",
+  "resources": {
+    "originalImage": "Qualibot_original.jpg",
+    "croppedImage": "Qualibot_cropped.jpg",
+    "thumbnailImage": "Qualibot_thumbnail.jpg",
+    "luminanceImage": "Qualibot_luminance.jpg"
+  },
+  "created": 1781662702686,
+  "updated": 1781662726204
+}

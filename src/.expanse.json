@@ -199,6 +199,90 @@
         "positional": true
       },
       "order": 1
+    },
+    "3abc928d-70b4-411b-973e-72b69481ea2d": {
+      "id": "3abc928d-70b4-411b-973e-72b69481ea2d",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        0,
+        0,
+        0,
+        1
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "88453035-dc0f-486d-868a-8ff7c2fda864",
+      "components": {},
+      "name": "Image Target 3DModel",
+      "order": 3.540240434251616
+    },
+    "3516602c-f954-4530-a1f3-517f52445e19": {
+      "id": "3516602c-f954-4530-a1f3-517f52445e19",
+      "position": [
+        1,
+        0,
+        0
+      ],
+      "rotation": [
+        4.329780281177466e-17,
+        -0.7071067811865476,
+        0.7071067811865475,
+        4.329780281177467e-17
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "geometry": null,
+      "material": null,
+      "parentId": "3abc928d-70b4-411b-973e-72b69481ea2d",
+      "components": {},
+      "name": "Target",
+      "imageTarget": {
+        "name": "Qualibot"
+      },
+      "order": 5.328155637417195
+    },
+    "b9b957f7-d82c-4724-9b5b-b112de464702": {
+      "id": "b9b957f7-d82c-4724-9b5b-b112de464702",
+      "position": [
+        0,
+        0,
+        0
+      ],
+      "rotation": [
+        -0.4999999999999999,
+        0.5,
+        -0.5,
+        0.5000000000000001
+      ],
+      "scale": [
+        1,
+        1,
+        1
+      ],
+      "parentId": "3516602c-f954-4530-a1f3-517f52445e19",
+      "components": {},
+      "name": "3DModel",
+      "order": 1.5980570789862223,
+      "gltfModel": {
+        "src": {
+          "type": "asset",
+          "asset": "assets/3DModelQalitbot.glb"
+        },
+        "animationClip": "",
+        "loop": true
+      }
     }
   },
   "spaces": {
